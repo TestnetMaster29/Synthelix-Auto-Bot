@@ -23,7 +23,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropinsiders/Synthelix-Auto-Bot.git
+git clone https://github.com/TestnetMaster29/Synthelix-Auto-Bot.git
 cd Synthelix-Auto-Bot
 ```
 
@@ -111,8 +111,4 @@ Contributions, issues, and feature requests are welcome!
 
 This tool is provided for educational purposes only. Use at your own risk. The creators of this tool are not responsible for any potential losses or issues that may arise from its use.
 
-## 💬 Support
-
-Join our community:
-- [Discord](https://discord.gg/tmrBhAxU)
-- [Telegram](https://t.me/AirdropInsiderID)
+Last update:
